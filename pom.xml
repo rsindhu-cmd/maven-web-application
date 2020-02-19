@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.242.73:8081/repository/ramyajenkins-releases//</url>
+	      <url>http://13.127.204.198:8081/repository/ramyajenkins-releases//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.242.73:8081/repository/ramyajenkins-snapshot///</url>
+	      <url>http://13.127.204.198:8081/repository/ramyajenkins-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
